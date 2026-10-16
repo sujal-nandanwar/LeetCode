@@ -36,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sujal-nandanwar/LeetCode/tree/master/0149-max-points-on-a-line) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
