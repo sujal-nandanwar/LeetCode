@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sujal-nandanwar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0149-max-points-on-a-line](https://github.com/sujal-nandanwar/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sujal-nandanwar/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujal-nandanwar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sujal-nandanwar/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Stack
 |  |
 | ------- |
@@ -86,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sujal-nandanwar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sujal-nandanwar/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sujal-nandanwar/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Bitmask
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sujal-nandanwar/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
