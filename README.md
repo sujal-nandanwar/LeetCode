@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sujal-nandanwar/LeetCode/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/sujal-nandanwar/LeetCode/tree/master/0087-scramble-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sujal-nandanwar/LeetCode/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/sujal-nandanwar/LeetCode/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujal-nandanwar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0818-race-car](https://github.com/sujal-nandanwar/LeetCode/tree/master/0818-race-car) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sujal-nandanwar/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
