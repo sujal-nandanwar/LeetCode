@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sujal-nandanwar/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/sujal-nandanwar/LeetCode/tree/master/0087-scramble-string) |
+| [0125-valid-palindrome](https://github.com/sujal-nandanwar/LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/sujal-nandanwar/LeetCode/tree/master/0218-the-skyline-problem) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sujal-nandanwar/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
