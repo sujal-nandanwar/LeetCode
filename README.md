@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sujal-nandanwar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0149-max-points-on-a-line](https://github.com/sujal-nandanwar/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0218-the-skyline-problem](https://github.com/sujal-nandanwar/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0496-next-greater-element-i](https://github.com/sujal-nandanwar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/sujal-nandanwar/LeetCode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sujal-nandanwar/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0496-next-greater-element-i](https://github.com/sujal-nandanwar/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sujal-nandanwar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/sujal-nandanwar/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sujal-nandanwar/LeetCode/tree/master/0125-valid-palindrome) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sujal-nandanwar/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
