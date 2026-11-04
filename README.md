@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sujal-nandanwar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/sujal-nandanwar/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0295-find-median-from-data-stream](https://github.com/sujal-nandanwar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/sujal-nandanwar/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0295-find-median-from-data-stream](https://github.com/sujal-nandanwar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Ordered Set
 |  |
 | ------- |
@@ -149,8 +151,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujal-nandanwar/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/sujal-nandanwar/LeetCode/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/sujal-nandanwar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sujal-nandanwar/LeetCode/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sujal-nandanwar/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sujal-nandanwar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
